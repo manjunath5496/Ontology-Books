@@ -5,6 +5,7 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Ontology-Books/blob/master/oton(2).pdf" style="text-decoration:none;">Ontology of Social Being, Volume 3. Labour</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Ontology-Books/blob/master/oton(3).pdf" style="text-decoration:none;"> The Ontology of Time: Being and Time in the Philosophies of Aristotle, Husserl and Heidegger</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Ontology-Books/blob/master/oton(4).pdf" style="text-decoration:none;"> Ontology View: a new sub-ontology extraction method</a></b></li>
                             
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Ontology-Books/blob/master/oton(5).pdf" style="text-decoration:none;">Ontology Engineering with Diagrams: A Practical User Guide</a></b></li>  
      <li><b><a target="_blank" href="https://github.com/manjunath5496/Ontology-Books/blob/master/oton(6).pdf" style="text-decoration:none;">The Political Ontology of Martin Heidegger</a></b></li>  
